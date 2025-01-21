@@ -1,1 +1,3 @@
 Que es bitcoin?
+
+Es una moneda digital que tiene un limite 21 millones de monedas.
