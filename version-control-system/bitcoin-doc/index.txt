@@ -8,3 +8,17 @@ lo convierte en un activo escaso. Bitcoin se puede usar como inversión, medio d
 transferencias internacionales, y se obtiene comprándolo en plataformas de intercambio, recibiéndolo 
 como pago o mediante un proceso técnico llamado minería. Aunque su uso comercial aún es limitado, su 
 popularidad ha crecido debido a su transparencia, seguridad y potencial de valorización.
+
+La tecnología Bitcoin se basa en un sistema descentralizado que permite 
+transferir valor de forma segura sin necesidad de una autoridad central. 
+Su componente principal es la blockchain (cadena de bloques), un registro digital 
+público que almacena todas las transacciones realizadas con Bitcoin. Cada bloque contiene 
+un conjunto de transacciones y está vinculado criptográficamente al bloque anterior, formando 
+una cadena inalterable.
+
+Esta red funciona gracias a miles de computadoras distribuidas en todo el 
+mundo (llamadas nodos), que validan y registran las transacciones. Para mantener 
+la seguridad, utiliza algoritmos criptográficos y un sistema llamado prueba de trabajo 
+(Proof of Work), que requiere que los mineros realicen cálculos complejos para añadir nuevos 
+bloques a la cadena. Gracias a esto, es prácticamente imposible modificar el historial de 
+transacciones, lo que garantiza la integridad y confianza del sistema.
