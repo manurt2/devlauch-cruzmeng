@@ -22,3 +22,11 @@ la seguridad, utiliza algoritmos criptográficos y un sistema llamado prueba de 
 (Proof of Work), que requiere que los mineros realicen cálculos complejos para añadir nuevos 
 bloques a la cadena. Gracias a esto, es prácticamente imposible modificar el historial de 
 transacciones, lo que garantiza la integridad y confianza del sistema.
+
+En conclusión, la tecnología Bitcoin representa una innovación disruptiva en el 
+ámbito financiero, al permitir la transferencia de valor sin intermediarios mediante 
+una red segura, transparente y descentralizada. Su funcionamiento basado en blockchain y 
+criptografía garantiza la integridad de las transacciones, ofreciendo una alternativa al 
+sistema bancario tradicional. Más allá de ser una criptomoneda, Bitcoin ha abierto el camino 
+para el desarrollo de nuevas aplicaciones tecnológicas en distintos sectores, demostrando el 
+potencial transformador de las finanzas digitales.
