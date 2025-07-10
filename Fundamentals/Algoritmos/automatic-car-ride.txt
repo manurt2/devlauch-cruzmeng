@@ -1,0 +1,30 @@
+Proporciona una explicacion detallada en un archivo.txt 
+de las acciones que realizarias al prepararte para conducir un coche automatico.
+
+Este ejercicio esta diseñado para ayudarte a entender los conceptos basicos de los algoritmo 
+al darte un ejemplo del mundo real sobre como llevar tu coche a dar un paseo.
+
+SOLUCION:
+
+Nota: Estamos posicionado dentro de la casa y estas en tu cuarto y estas buscando tus llaves que estan
+en la mesa de noche.
+
+Paso 1: Debes buscar y recolectar tus llaves del vehiculo y de la casa que se encuentra
+ en la mesa de noche.
+
+Paso 2: Ve hasta la puerta de salida de tu casa, sal y cierra la casa.
+
+Paso 3: dirige a tu vehiculo y quita el seguro 
+
+Paso 4: Entra al vehiculo, acomodate y encienda el carro
+
+Paso 5: Verifica que tu vehiculo se encuentra en buen optimo como:
+gasolina, o otra senal que indique el vehiculo. De no ser asi, verifica cual es el problema
+y llame a su mecanico de confianza. Repita este proceso hasta estar seguro que el vehiculo esta en 
+su mejor disposicion.
+
+Paso 6: Realiza el cambio de marcha segun su necesidad, es decir si ocupa realizar reversa
+o si ocupa avanzar.
+
+Paso 7: Saque el vehiculo de casa o residencial o parqueo y conduza con prudencia.
+
