@@ -1,0 +1,35 @@
+Proporciona una explicacion detallada en un archivo.txt de las acciones que 
+realizarias al cocina un huevo.
+
+SOLUCION:
+
+Nota: Se determina que la persona ya se encuentra en la cocina y la persona 
+tiene una cocina electrica.
+
+Paso 1. Buscar los utensilios como Sarten, Cucharon de madera, cuchara o tenedor para comer el huevo,
+un plato y dejarlos preparados 
+
+Paso 2. Buscar los ingredientes los cuales son 1 o 2 huevos a su gusto, una botella de aceite 
+de su preferencia siempre que sea para freir en la cocina, tambien cuenta los de oliva.
+
+Paso opcional: Si desea los huevo estilo revueltos o algun estilo japones, primero debes 
+romper los huevos a la mitad y agregar el contenido en un recipiente y por ultimo revolverlos con 
+sal y pimienta.
+
+Paso 3. A listar el sarten en la cocina electrica:
+- Poner el sarten en la cocina
+- Calentar el sarten con un nivel 7, y dejarlo por 30s a 1 min
+
+Paso 4: Agregar el aceite al sarten que puede ser 50 ml
+
+Paso 5: espera que el aceite termine de calentar para estar listo para freir
+
+Paso 6: Agregar el huevo en el sarten sin la cascara solo contenido.
+
+Paso 7: dejar que el huevo se cocine por 30s a 1 min
+
+Paso 8: Sacar el huevo del sarten y colocarlo en un plato
+
+Paso 9: Poner el plato en lugar seguro y apagar la cocina
+
+Paso 10: Retirar el sarten donde no resiva mas calor
