@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/manurt2/devlauch-cruzmeng/issues"
   },
-  "homepage": "https://github.com/manurt2/devlauch-cruzmeng#readme"
+  "homepage": "https://github.com/manurt2/devlauch-cruzmeng#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
