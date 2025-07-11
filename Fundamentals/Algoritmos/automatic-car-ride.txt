@@ -14,9 +14,11 @@ Paso 1: Debes buscar y recolectar tus llaves del vehiculo y de la casa que se en
 
 Paso 2: Ve hasta la puerta de salida de tu casa, sal y cierra la casa.
 
-Paso 3: dirige a tu vehiculo y quita el seguro 
+Paso 3: dirige a tu vehiculo / El vehiculo se encuentra con seguro o sin seguro? / 
+Si esta con seguro, desbloquea el vehiculo con la llaves y abre la puerta.
+No tiene seguro, solo abre la puerta.
 
-Paso 4: Entra al vehiculo, acomodate y encienda el carro
+Paso 4: Entra al vehiculo, acomodate, ponte el cinturon y encienda el carro
 
 Paso 5: Verifica que tu vehiculo se encuentra en buen optimo como:
 gasolina, o otra senal que indique el vehiculo. De no ser asi, verifica cual es el problema
