@@ -27,7 +27,7 @@ const message=(
 ?'You are a young adult'
 : (age>=30&&age<=60)
 ?'You are an adult'
-: (age>=60)
+: (age>60)
 ?'You are an elderly'
 : null
 )
