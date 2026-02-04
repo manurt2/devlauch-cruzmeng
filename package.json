@@ -19,5 +19,8 @@
   "homepage": "https://github.com/manurt2/devlauch-cruzmeng#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
   }
 }
